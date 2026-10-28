@@ -213,8 +213,8 @@ const long gmtOffset_sec = -18000;
 const int daylightOffset_sec = 3600;  // Set to 3600 if Daylight Saving Time is active, otherwise 0
 
 // INTERNET CONNECTION CREDENTIALS
-const char *WIFI_SSID = "scarface";
-const char *WIFI_PASS = "2kSuncruiser!";
+const char *WIFI_SSID = "ENTER YOUR SSID HERE";
+const char *WIFI_PASS = "ENTER YOUR PASSWORD HERE!";
 
 // APPLICATION STORAGE BUFFERS
 String notesText = "";
